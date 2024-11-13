@@ -1,0 +1,13 @@
+ID_Fallo,ID_Planta,Tipo_Fallo,Fecha
+"FAIL01","P01","Fallo inversor","09/03/2022 16:00"
+"FAIL02","P01","Fallo inversor","12/05/2022 7:00"
+"FAIL03","P01","Fallo inversor","09/03/2022 17:00"
+"FAIL04","P01","Fallo String","08/06/2023 12:30"
+"FAIL05","P01","Fallo String","10/08/2023 11:30"
+"PREV01","P01","Preventivo","08/01/2022 10:00"
+"FAIL06","P02","Fallo String","02/01/2024 14:45"
+"FAIL07","P02","Fallo String","01/10/2024 15:45"
+"FAIL08","P02","Fallo String","18/04/2024 9:00"
+"FAIL09","P02","Fallo inversor","22/07/2024 11:15"
+"FAIL10","P02","Fallo inversor","08/09/2023 9:15"
+"PREV02","P02","Preventivo","06/10/2024 15:45"

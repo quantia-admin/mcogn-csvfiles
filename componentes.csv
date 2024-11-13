@@ -1,0 +1,7 @@
+ID_Operario,ID_Planta,Nombre,Puesto,Salario,Antiguedad
+"OPE01","P01","Manuel Jiménez","Operario de mantenimiento","24000","2"
+"OPE02","P01","Laura Martos","Operario de mantenimiento","24100","3"
+"OPE03","P01","Álvaro Fernández","Jefe de planta","30000","10"
+"OPE04","P02","Aitana Rangel","Operario de mantenimiento","24100","3"
+"OPE05","P02","Isaac Romero","Operario de mantenimiento","24100","3"
+"OPE06","P02","Adriana Martín","Jefe de planta","30200","5"
