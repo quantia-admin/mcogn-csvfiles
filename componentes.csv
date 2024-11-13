@@ -1,7 +1,13 @@
-ID_Operario,ID_Planta,Nombre,Puesto,Salario,Antiguedad
-"OPE01","P01","Manuel Jiménez","Operario de mantenimiento","24000","2"
-"OPE02","P01","Laura Martos","Operario de mantenimiento","24100","3"
-"OPE03","P01","Álvaro Fernández","Jefe de planta","30000","10"
-"OPE04","P02","Aitana Rangel","Operario de mantenimiento","24100","3"
-"OPE05","P02","Isaac Romero","Operario de mantenimiento","24100","3"
-"OPE06","P02","Adriana Martín","Jefe de planta","30200","5"
+ID_Componente,Tipo,Nombre,Marca,Modelo,Edad,Fecha_Puesta_Servicio,ID_Planta
+INV01,Inversor,Inversor_1,Sungrow,SG110-CX,2,10/10/2022,P02
+INV02,Inversor,Inversor_2,Sungrow,SG110-CX,1,11/10/2023,P02
+INV03,Inversor,Inversor_3,Sungrow,SG125CX-P2,1,12/10/2023,P02
+INV04,Inversor,Inversor_A,SMA Solar,Sunny Tripower CORE1,2,13/10/2022,P01
+INV05,Inversor,Inversor_B,SMA Solar,Sunny Tripower CORE1,2,14/10/2022,P01
+INV06,Inversor,Inversor_C,SMA Solar,Sunny Tripower CORE1,1,15/10/2023,P01
+STR01,String,String_1,JA SOLAR,JAM72S30 545/MR (545 Wp),2,16/10/2022,P02
+STR02,String,String_2,JA SOLAR,JAM72S30 545/MR (545 Wp),1,17/10/2023,P02
+STR03,String,String_3,JA SOLAR,JAM72S30 545/MR (545 Wp),1,18/10/2023,P02
+STR04,String,String_A,GCL SOLAR,GCL-M6/60H (315 Wp),2,19/10/2022,P01
+STR05,String,String_B,GCL SOLAR,GCL-M6/60H (315 Wp),2,20/10/2022,P01
+STR06,String,String_C,GCL SOLAR,GCL-M6/60H (315 Wp),1,21/10/2023,P01
